@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    cout<<"Hello GIT"<<endl;
+    cout<<"Hello GIT from master"<<endl;
 
     return 0;
 }
